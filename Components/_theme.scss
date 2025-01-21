@@ -1,0 +1,12 @@
+/* Theme */
+
+html:has(.toggle__checkbox:checked) {
+  --color-background: var(--color-black);
+  --color-text: var(--color-white);
+  --color-box-img: #5e29c2;
+  --color-link-bg: #5e29c2;
+  --color-grey: #080808;
+  --color-input-border: var(--color-white);
+}
+
+/* End Theme */
